@@ -14,3 +14,12 @@ h2 {
   margin-left: 40%;
 }
 
+body {
+  background-image: url("Background Image for hankabear website.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  margin: 0;
+}
+
