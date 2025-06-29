@@ -6,7 +6,8 @@
   font-size: 100px;
   color: white;
   font-family: 'Showcard Gothic Regular', Regular;
-}
+  letter-spacing: 10px;
+} 
 
 h2 {
   text-align: center;
